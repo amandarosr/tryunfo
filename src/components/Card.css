@@ -1,0 +1,9 @@
+div:first-of-type {
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  max-height: 500px;
+  max-width: 250px;
+}
